@@ -6,4 +6,4 @@
 
 
 
-![Github Status](https://github-readme-stats.vercel.app/api username=chetan-0&theme=dark)
+![Github Status](https://github-readme-stats.vercel.app/api?username=chetan-0&theme=dark)
