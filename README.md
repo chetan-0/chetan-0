@@ -1,4 +1,4 @@
-                                                                     <h1> Hi there </h1>
+<h1>                                                                       Hi there </h1>
 <h4>This is my Github Profile, feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.</h4>
 
 - 🔭 I’m currently working on smart contracts for ethereum.
@@ -11,7 +11,6 @@
 
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=chetan&left_color=green&right_color=red)
  
- ![Visitor Count](https://profile-counter.glitch.me/chetan-0/count.svg)
  
  [![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
 
