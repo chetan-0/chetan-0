@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1> Hi there </h1>👋
 
 - 🔭 I’m currently working on smart contracts for ethereum.
 - 🌱 I’m currently learning solidity and deFi app building.
