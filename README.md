@@ -1,5 +1,5 @@
   <h1>Hi there</h1>
-  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif">
+  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" max-height=20px>
   <br><br><br>
 <h4>This is my Github Profile, feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.</h4>
 
