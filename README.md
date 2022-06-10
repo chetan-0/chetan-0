@@ -1,4 +1,6 @@
-  <h1>Hi there</h1><br><br><br>
+  <h1>Hi there</h1>
+  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif">
+  <br><br><br>
 <h4>This is my Github Profile, feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.</h4>
 
 - 🔭 I’m currently working on smart contracts for ethereum.
