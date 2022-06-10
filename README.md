@@ -1,8 +1,8 @@
-  <img src="https://user-images.githubusercontent.com/44582949/97300632-ed3cd700-1880-11eb-9670-766d86aa6de0.gif"  height="800">
+  <img src="https://user-images.githubusercontent.com/44582949/97300632-ed3cd700-1880-11eb-9670-766d86aa6de0.gif"  height="500">
   
 <h2>This is my Github Profile, feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.</h2>
 <h4> Few things about me </h4> 
-
+<hr>
 <p>- 🔭 I’m currently working on smart contracts for ethereum.</p>
 <p>- 🌱 I’m currently learning solidity and deFi app building.</p>
 <p>- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/chetan-shiraguppi-7815971b7/)</p>
