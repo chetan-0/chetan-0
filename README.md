@@ -10,7 +10,7 @@
 <br>
 
 ![Github Status](https://github-readme-stats.vercel.app/api?username=chetan-0&theme=dark)
-
+<p align="right">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chetan-0&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+</p>
 
