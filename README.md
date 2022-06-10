@@ -7,7 +7,7 @@
 <p>- 🔭 I’m currently working on smart contracts for ethereum.</p>
 <p>- 🌱 I’m currently learning solidity and deFi app building.</p>
 
-- 📫 How to reach me:![LinkedIn](https://www.linkedin.com/in/chetan-shiraguppi-7815971b7/)
+- 📫 How to reach me:[LinkedIn](https://www.linkedin.com/in/chetan-shiraguppi-7815971b7/)
 
 <br>
 
