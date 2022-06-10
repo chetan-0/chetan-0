@@ -1,5 +1,5 @@
   <h1>Hi there</h1>
-  <img src="https://github.com/hitontwo2">
+  <img src="https://user-images.githubusercontent.com/44582949/97300632-ed3cd700-1880-11eb-9670-766d86aa6de0.gif">
   <br><br><br>
 <h4>This is my Github Profile, feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.</h4>
 
